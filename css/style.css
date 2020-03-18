@@ -1,0 +1,13 @@
+html, body {
+    height: 100%;
+}
+body {
+    background-color: rgba(0, 0, 0, 0.246);
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+video {
+    display: none;
+}
